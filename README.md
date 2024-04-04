@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://www.instagram.com/mchfrnnda_/">
-    <img src="https://img.shields.io/instagram/follow/mchfrnnda_?style=for-the-badge&label=%40zuramai&logo=twitter&logoColor=FF204E&labelColor=black&color=7fff00">
-  </a>
   <a href="https://www.linkedin.com/in/mochammad-fernanda/">
     <img src="https://img.shields.io/badge/-mochammad%20fernanda-blue?style=for-the-badge&logo=Linkedin&logoColor=FF204E&labelColor=black&color=black">
   </a>
