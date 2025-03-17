@@ -1,6 +1,7 @@
-<h1 align="center">Hi there,👋</h1>
+<h1>Hi there,👋</h1>
 
-<p align="center"><i>"Serabutan ngoding"</i> 🧑‍💻</p>
+<li>Currently Learning: Next.js | Flutter .</li>
+<li>Serabutan ngoding 🧑‍💻</li>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mochammad-fernanda/">
@@ -10,11 +11,6 @@
     <img src="https://img.shields.io/badge/Email-veloxium.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
----
-
-### 🚀 Currently Learning: Next.js | Flutter .
-  
 
 ---
 
