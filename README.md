@@ -3,7 +3,9 @@
 <li>Currently Learning: Next.js | Flutter 🚀</li>
 <li>Serabutan Ngoding 🧑‍💻</li>
 
-<p style={{margin-top:4px}}>
+<br>
+
+<p>
   <a href="https://www.linkedin.com/in/mochammad-fernanda/">
     <img src="https://img.shields.io/badge/-mochammad%20fernanda-blue?style=for-the-badge&logo=Linkedin&logoColor=3178C6&labelColor=black&color=black">
   </a>
@@ -15,6 +17,9 @@
 ---
 
 ### 📊 Stats  
+
+<br>
+
 <p>
   <a href="https://github.com/Veloxium">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veloxium&layout=compact&theme=chartreuse-dark&langs_count=6">
