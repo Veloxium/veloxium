@@ -1,4 +1,4 @@
-<h1>Hi there,👋</h1>
+<h1>Hi there, i'm Nan👋</h1>
 
 <li>Currently Learning: Next.js | Flutter 🚀</li>
 <li>Serabutan Ngoding 🧑‍💻</li>
