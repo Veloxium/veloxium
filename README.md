@@ -23,10 +23,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/mochammad-fernanda/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-mochammad%20fernanda-blue?style=for-the-badge&logo=Linkedin&logoColor=3178C6&labelColor=black&color=black" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Mochammad%20Fernanda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:veloxium.dev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/veloxium.dev@gmail.com-0078D4?style=for-the-badge&logo=Gmail&logoColor=3178C6&labelColor=black&color=black" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-veloxium.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
