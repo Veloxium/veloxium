@@ -62,6 +62,6 @@
 
 <p>
   <a href="https://github.com/Veloxium">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veloxium&layout=compact&theme=chartreuse-dark&langs_count=6" alt="Top Languages">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=Veloxium)](https://git.io/streak-stats)
   </a>
 </p>
